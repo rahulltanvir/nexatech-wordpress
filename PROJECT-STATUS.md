@@ -16,3 +16,4 @@
 - Create Portfolio/Projects Page
 - Create Contact Page
 - Connect Navbar and Footer links
+- page make

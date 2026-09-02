@@ -21,3 +21,4 @@
 - not working
 - now working
 - add portfolio
+- portfolio page work

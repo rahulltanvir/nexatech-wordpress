@@ -22,4 +22,5 @@
 - now working
 - add portfolio
 - portfolio page work
-- contact page work
+- contact page work 
+- project end

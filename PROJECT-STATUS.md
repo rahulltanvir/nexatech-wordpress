@@ -24,3 +24,4 @@
 - portfolio page work
 - contact page work 
 - project end
+- vercel upload 

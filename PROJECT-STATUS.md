@@ -12,19 +12,4 @@
 - Copyright Bar - Completed
 
 ## Next Tasks
-- Create Services Page
-- Create Portfolio/Projects Page
-- Create Contact Page
-- Connect Navbar and Footer links
-- page make
-- serve page working
-- not working
-- now working
-- add portfolio
-- portfolio page work
-- contact page work 
-- project end
-- vercel upload 
-- fiver working
-- gig ready to go
--on fiver
+reday all

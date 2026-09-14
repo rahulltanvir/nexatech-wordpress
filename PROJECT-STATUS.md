@@ -26,3 +26,4 @@
 - project end
 - vercel upload 
 - fiver working
+- gig ready

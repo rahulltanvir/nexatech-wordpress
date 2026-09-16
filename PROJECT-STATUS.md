@@ -13,3 +13,5 @@
 
 ## Next Tasks
 reday all
+vercel upload
+tomorow

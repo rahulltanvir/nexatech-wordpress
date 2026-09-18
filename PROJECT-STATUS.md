@@ -16,3 +16,4 @@ reday all
 vercel upload
 tomorow
 not upload file
+gpt work

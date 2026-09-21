@@ -17,3 +17,4 @@ vercel upload
 tomorow
 not upload file
 gpt work bt upload problem
+not working
